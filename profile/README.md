@@ -1,11 +1,11 @@
-# Vector 8177
-Hello, we're the robotics team Vector 🧡 !
+# FRC Team Vector 8177
+Welcome to our GitHub profile. All of our robot code is uploaded here publicly, as well as other open source off-season projects.
 
 We compete in the FIRST Robotics Competition for Tomball Memorial High School.
 
-![alt text](https://i.ibb.co/BcH9W36/IMG-0583.jpg "Team Picture")
-# Achievments
-These are a few of our achievments,
+![alt text](https://i.postimg.cc/K84pXtS8/IMG-0583.jpg "Team Picture")
+# Achievements
+These are a few of our achievements,
 - Channelview District Event 
   * Winner (1st Pick)
   * Industrial Design Award sponsored by General Motors recipients
