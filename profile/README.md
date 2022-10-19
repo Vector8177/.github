@@ -1,7 +1,7 @@
 # FRC Team Vector 8177
 Welcome to our GitHub profile. All of our robot code is uploaded here publicly, as well as other open source off-season projects.
 
-We compete in the FIRST Robotics Competition for Tomball Memorial High School.
+Feel free to contribute to our projects, [if you have any questions contact us on our website](https://www.vector8177.com/contact/)
 
 ![alt text](https://i.postimg.cc/K84pXtS8/IMG-0583.jpg "Team Picture")
 # Achievements
