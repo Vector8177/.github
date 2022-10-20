@@ -5,7 +5,7 @@ Feel free to contribute to our projects, [if you have any questions contact us o
 
 ![alt text](https://i.postimg.cc/K84pXtS8/IMG-0583.jpg "Team Picture")
 # Achievements
-These are a few of our achievements,
+### 2022
 - Channelview District Event 
   * Winner (1st Pick)
   * Industrial Design Award sponsored by General Motors recipients
