@@ -8,12 +8,12 @@ Feel free to contribute to our projects, [if you have any questions contact us o
 ### 2022
 - Channelview District Event 
   * Winner (1st Pick)
-  * Industrial Design Award sponsored by General Motors recipients
+  * **Industrial Design Award sponsored by General Motors** recipients
 - Pasadena #2 District Event 
   * Winner (Alliance Captain)
-  * Innovation in Control Award recipients
+  * **Innovation in Control Award** recipients
 - FIRST in Texas District Championship 
   * Mercury Division Quarter-finalist
-  * Imagery Award in honor of Jack Kamen recipients
+  * **Imagery Award in honor of Jack Kamen** recipients
 - FIRST World Championship
   * Competed in Carver Division
