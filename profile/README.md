@@ -3,7 +3,7 @@ Welcome to our GitHub profile. All of our robot code is uploaded here publicly, 
 
 Feel free to contribute to our projects, [if you have any questions contact us on our website](https://www.vector8177.com/contact/)
 
-![alt text](https://i.postimg.cc/K84pXtS8/IMG-0583.jpg "Team Picture")
+![alt text](https://i.postimg.cc/wvjLj5bm/IMG-4513.jpg "Team Picture")
 # Achievements
 ### 2022
 - Channelview District Event 
